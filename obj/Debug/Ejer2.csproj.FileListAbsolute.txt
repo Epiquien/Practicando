@@ -1,0 +1,6 @@
+D:\Fundamentos de Algoritmos\EJERCICIOS\Ejer2\bin\Debug\Ejer2.exe.config
+D:\Fundamentos de Algoritmos\EJERCICIOS\Ejer2\bin\Debug\Ejer2.exe
+D:\Fundamentos de Algoritmos\EJERCICIOS\Ejer2\bin\Debug\Ejer2.pdb
+D:\Fundamentos de Algoritmos\EJERCICIOS\Ejer2\obj\Debug\Ejer2.exe
+D:\Fundamentos de Algoritmos\EJERCICIOS\Ejer2\obj\Debug\Ejer2.pdb
+D:\Fundamentos de Algoritmos\EJERCICIOS\Ejer2\obj\Debug\Ejer2.csprojResolveAssemblyReference.cache
